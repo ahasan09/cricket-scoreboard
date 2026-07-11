@@ -1,3 +1,7 @@
+> [!WARNING]
+> **📦 ARCHIVED** — This repository is no longer maintained.
+> Built on AngularJS 1.x, which reached end-of-life in December 2021.
+
 # Cricket Scoreboard
 
 An AngularJS single-page application for tracking cricket match scores in real time.
